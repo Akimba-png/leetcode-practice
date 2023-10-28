@@ -5,3 +5,4 @@
 
 ## Numbers
 [add one (BigInt)](./numbers/add-one.js)
+[number divisors](./numbers//perfect-numbers.js)
